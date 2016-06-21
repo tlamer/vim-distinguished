@@ -1,5 +1,7 @@
 " Author: Kim Silkebækken <kim.silkebaekken+vim@gmail.com>
 " Source repository: https://github.com/Lokaltog/vim-distinguished
+"
+" Modified by: Peter Kotvan <peter.kotvan@gmail.com>
 
 " Initialization {{{
 	set background=dark
@@ -9,7 +11,7 @@
 		syntax reset
 	endif
 
-	let g:colors_name = 'distinguished'
+	let g:colors_name = 'distmod'
 
 	if ! has('gui_running')
 		if &t_Co != 256
