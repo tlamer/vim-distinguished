@@ -128,8 +128,8 @@ call s:ColorDictParser({
 	\ , 'PHPInterfaceTag'             : [    253,     '',               '',      'dadada',        '',               '']
 	\ , 'PHPFunctionTag'              : [    222,     '',           'bold',      'ffd787',        '',           'bold']
 	\
-	\ , 'pythonDocString'             : [    240,    233,               '',      '585858',  '121212',               '']
-	\ , 'pythonDocStringTitle'        : [    245,    233,               '',      'dadada',  '121212',               '']
+	\ , 'pythonDocString'             : [    245,    233,               '',      '585858',  '121212',               '']
+	\ , 'pythonDocStringTitle'        : [    248,    233,               '',      'dadada',  '121212',               '']
 	\ , 'pythonRun'                   : [     65,     '',               '',      '5f875f',        '',               '']
 	\ , 'pythonBuiltinObj'            : [     67,     '',           'bold',      '5f87af',        '',           'bold']
 	\ , 'pythonSelf'                  : [    250,     '',           'bold',      'bcbcbc',        '',           'bold']
